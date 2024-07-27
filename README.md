@@ -1,4 +1,4 @@
-#Bank Loan Eligibility Classifier
+# Bank Loan Eligibility Classifier
 
 This repository contains an analysis and classification model to predict loan approval status. Using historical loan application data, we have developed a machine learning model that can predict whether a loan will be approved or not. This project employs advanced machine learning techniques to ensure high predictive accuracy and reliability.
 
