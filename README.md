@@ -5,6 +5,7 @@ This repository contains an analysis and classification model to predict loan ap
 ## Introduction and Objective
 Predicting the approval of bank loans is a critical task for financial institutions as it directly impacts their risk management and profitability. This project aims to build a robust classification model that can accurately predict loan approval based on various applicant features. By leveraging machine learning algorithms, the model provides valuable insights that help in making informed lending decisions.
 
+<img src = "https://github.com/somaksanyal97/Bank-Loan-Prediction/blob/main/Pictures/download%20(1).jpeg" style="width:1000px; height:300px;">
 ## Data
 The dataset used in this project consists of historical loan application records. Each record includes several features such as applicant income, co-applicant income, loan amount, loan amount term, credit history, gender, marital status, education, self-employment status, property area, and loan approval status. This diverse set of features is essential for capturing the factors that influence loan approval decisions.
 
