@@ -38,5 +38,5 @@ After extensive experimentation and model tuning, the Random Forest Classifier w
 This project successfully developed a robust machine learning model for predicting bank loan approval. The model's high accuracy and reliability make it a valuable tool for financial institutions, aiding in risk management and decision-making processes. Future work may involve exploring more advanced techniques and additional features to further improve the model's performance.
 
 ## Usage
-To use the model, clone this repository and run the provided Jupyter notebooks. Detailed instructions for preprocessing, model training, and evaluation are included in the notebooks. The repository also includes a script for making predictions on new loan applications.
+To use the model, clone this repository and run the provided Jupyter notebooks. Detailed instructions for preprocessing, model training, and evaluation are included in the notebooks.
 
